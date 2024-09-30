@@ -13,6 +13,6 @@ public class FactorialofN {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : ");
         int n = sc.nextInt();
-        System.out.println("Sum is : " + Factorial(n));
+        System.out.println("Factorial is : " + Factorial(n));
     }
 }
