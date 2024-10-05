@@ -20,6 +20,6 @@ public class MaxElementInArray{
         {
             arr[i]=sc.nextInt();
         }
-        System.out.println(" Maxmim of Array element is : " + MaxElement(arr,n));
+        System.out.println(" Maximum of Array element is : " + MaxElement(arr,n));
     }
 }
